@@ -4,7 +4,7 @@ Project discription:
 A simple web-app application that supports authentication, registartion and other CRUID operations.
 
 ⚡️ Quickstart
-app-1-env.eba-pzmnb4tc.eu-north-1.elasticbeanstalk.com
+- http://app-1-env.eba-pzmnb4tc.eu-north-1.elasticbeanstalk.com
 
 
 🎯 Features
