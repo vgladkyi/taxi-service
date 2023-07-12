@@ -9,17 +9,16 @@ You can test various functionalities and features of web-app via this link:
 
 
 <h2>🎯 Features </h2>
-- registartion like driver  
-- authentication like driver  
-- create/update/remove driver
-- create/update/remove manufacturer
-- create/update/remove car
-- display list of all manufacturers
-- display list of all drivers
-- display list of all cars
-- 
-- dispay current cars of logged driver
-- add driver to car
+- registartion like driver <br/>
+- authentication like driver <br/>
+- create/update/remove driver <br/>
+- create/update/remove manufacturer <br/>
+- create/update/remove car <br/>
+- display list of all manufacturers <br/>
+- display list of all drivers <br/>
+- display list of all cars <br/>
+- dispay current cars of logged driver <br/>
+- add driver to car <br/>
 
 <h2>🌐👨🏻‍💻 Technologies </h2>
 </n>- Java 11
