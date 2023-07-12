@@ -1,7 +1,7 @@
 <H1>🚕 Taxi Service 🚕 </H1>
 
 <h2>📙 Project discription</h2>
-- A simple web-app application that supports authentication, registartion and other CRUD operations.
+A simple web-app application that supports authentication, registartion and other CRUD operations.
 
 <h2>⚡ Quickstart </h2>
 You can test various functionalities and features of web-app via this link: 
@@ -9,18 +9,18 @@ You can test various functionalities and features of web-app via this link:
 
 
 <h2>🎯 Features </h2>
-- registartion like driver <br/>
-- authentication like driver <br/>
-- create/update/remove driver <br/>
-- create/update/remove manufacturer <br/>
-- create/update/remove car <br/>
-- display list of all manufacturers <br/>
-- display list of all drivers <br/>
-- display list of all cars <br/>
-- dispay current cars of logged driver <br/>
-- add driver to car <br/>
+⚪ registartion like driver <br/>
+⚪ authentication like driver <br/>
+⚪ create/update/remove driver <br/>
+⚪ create/update/remove manufacturer <br/>
+⚪ create/update/remove car <br/>
+⚪ display list of all manufacturers <br/>
+⚪ display list of all drivers <br/>
+⚪ display list of all cars <br/>
+⚪ dispay current cars of logged driver <br/>
+⚪ add driver to car <br/>
 
 <h2>🌐👨🏻‍💻 Technologies </h2>
-- Java 11 <br/>
-- MySQL 8.0 <br/>
-- Amazon Web Services <br/>
+⚪ Java 11 <br/>
+⚪ MySQL 8.0 <br/>
+⚪ Amazon Web Services <br/>
