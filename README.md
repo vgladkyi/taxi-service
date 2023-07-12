@@ -21,6 +21,6 @@ You can test various functionalities and features of web-app via this link:
 - add driver to car
 
 <h2>🌐👨🏻‍💻 Technologies </h2>
-- Java 11
-- MySQL 8.0
-- Amazon Web Services
+</n>- Java 11
+</n>- MySQL 8.0
+</n>- Amazon Web Services
