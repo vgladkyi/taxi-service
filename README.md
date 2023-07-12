@@ -4,7 +4,7 @@
 A simple web-app application that supports authentication, registartion and other CRUD operations.
 
 <h2>⚡ Quickstart </h2>
-You can test various functionalities and features of web-app via this link: 
+Here you can test various functionalities and features of web-app via **Amazon Web Services**: 
 <br> http://app-1-env.eba-pzmnb4tc.eu-north-1.elasticbeanstalk.com </br>
 
 
