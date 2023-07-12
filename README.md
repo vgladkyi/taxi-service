@@ -3,7 +3,7 @@
 <h2>📙 Project discription</h2>
 A simple web-app application that supports authentication, registartion and other CRUD operations.
 
-<h2>⚡ Quickstart </h2>
+<h2>🌿 Quickstart </h2>
 ⬇️⬇️ Here you can test various functionalities and features of web-app via Amazon Web Services.
 <br> http://app-1-env.eba-pzmnb4tc.eu-north-1.elasticbeanstalk.com </br>
 
@@ -21,5 +21,5 @@ A simple web-app application that supports authentication, registartion and othe
 ⚪ add driver to car <br/>
 
 <h2>🌐👨🏻‍💻 Technologies </h2>
-⚪ Java 11 <br/>
+⚪ Java 11 </br>
 ⚪ MySQL 8.0 <br/>
