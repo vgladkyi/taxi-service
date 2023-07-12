@@ -1,9 +1,9 @@
 🚕 Taxi Service 🚕 
 
-Project discription: 
-A simple web-app application that supports authentication, registartion and other CRUID operations.
+📙 Project discription
+- A simple web-app application that supports authentication, registartion and other CRUID operations.
 
-⚡️ Quickstart
+⚡ Quickstart
 - http://app-1-env.eba-pzmnb4tc.eu-north-1.elasticbeanstalk.com
 
 
@@ -17,9 +17,9 @@ A simple web-app application that supports authentication, registartion and othe
 - display list of all drivers
 - display list of all cars
 - dispay current cars of logged driver
-- adding driver to car
+- add driver to car
 
-For this project were used:
+🌐👨🏻‍💻 Technologies 
 - Java 11
 - Servlet API
 - Maven JSTL 
