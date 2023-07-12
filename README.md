@@ -21,7 +21,8 @@ A simple web-app application that supports authentication, registartion and othe
 ⚪ add driver to car <br/>
 
 <h2>📄 Entity-Relationship diagram </h2>
-![Снимок экрана 2023-07-12 в 18 58 40](https://github.com/vgladkyi/taxi-service/assets/106926405/7be21a14-a6ae-4d1d-b206-ef5733359db8)
+![Снимок экрана 2023-07-12 в 18 58 40](https://github.com/vgladkyi/taxi-service/assets/106926405/02e00195-c186-4dc4-bf22-29d3f26ff80c)
+
 
 <h2>🌐👨🏻‍💻 Technologies </h2>
 ⚪ Java 11 </br>
