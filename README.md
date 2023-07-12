@@ -9,14 +9,15 @@ You can test various functionalities and features of web-app via this link:
 
 
 <h2>🎯 Features </h2>
-- registartion like driver
-- authentication like driver
+- registartion like driver  
+- authentication like driver  
 - create/update/remove driver
 - create/update/remove manufacturer
 - create/update/remove car
 - display list of all manufacturers
 - display list of all drivers
 - display list of all cars
+- 
 - dispay current cars of logged driver
 - add driver to car
 
