@@ -25,7 +25,12 @@ A simple web-app application that supports authentication, registration and othe
 <img src="https://github.com/vgladkyi/taxi-service/blob/main/src/main/resources/ER%20diagram.png" width="700" title="ER diagram">
 <h2>🌐👨🏻‍💻 Technologies </h2>
 ⚪ Java 11 </br>
+⚪ Maven </br>
+⚪ Apache Tomcat 9 </br>
+⚪ JSP </br>
+⚪ Java Servlet </br>
 ⚪ SQL </br>
+⚪ AWS Elastic Beanstalk </br>
 
 <h2> 🛠️ Setting up </h2>
 Step 1: Create database. Create a schema and copy everything from the `..resources/init_db.sql` file, then execute query in your DB.
