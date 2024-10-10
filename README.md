@@ -3,9 +3,6 @@
 <h2>📙 Project description</h2>
 A simple web-app application that supports authentication, registration and other CRUD operations.
 
-<h2>🌿 Quickstart </h2>
-<h5>You can test various functionalities and features of web-app via Amazon Web Service Elastic Beans vis this link ⬇️ </br> <a asign = "centr" href="http://app-1-env.eba-pzmnb4tc.eu-north-1.elasticbeanstalk.com"> Taxi Service </a></h5>
-
 <h2>🎯 Features </h2>
 ⚪ Registration like driver <br/>
 ⚪ Authentication like driver <br/>
